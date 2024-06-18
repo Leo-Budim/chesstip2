@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "961644583445",
+    "project_id": "chesstip-on",
+    "storage_bucket": "chesstip-on.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:961644583445:android:078a4e3aad30834e830c1c",
+        "android_client_info": {
+          "package_name": "com.example.chesstip"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBTutwmyKWjmeH9CaMOjNMPKQ6T0zkV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
